@@ -8,10 +8,7 @@ function App(props) {
      <div className='container'>
       <div className='fcontainer'>1</div>
       <div className='fcontainer'>2</div>
-      <div className='fcontainer'>1</div>
-      <div className='fcontainer'>2</div>
-      <div className='fcontainer'>1</div>
-      <div className='fcontainer'>2</div>
+     
       <div className='fcontainer'>An appleee
                                <br/>a day
                                <br/>keeps
